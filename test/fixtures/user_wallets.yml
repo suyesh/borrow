@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  balance: 1
+  lended: 1
+  borrowed: 1
+  payedback: 1
+  owed: 1
+  disputes: 1
+  interest_rate: 1
+  other_fees: 1
+
+two:
+  balance: 1
+  lended: 1
+  borrowed: 1
+  payedback: 1
+  owed: 1
+  disputes: 1
+  interest_rate: 1
+  other_fees: 1

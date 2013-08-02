@@ -1,0 +1,5 @@
+%h1 All Users
+-@users.each do |user|
+	%h3=user.name
+	%h3=user.email
+	=link_to "Delete User", user_path(user), :method => :delete
